@@ -1,4 +1,4 @@
-## Hello, world!
+## Hello, world! 👋
 I'm a Security Engineer from India. I'm here to write about Security. I have had the amazing opportunity to work with distributed Linux systems, web services and applications along with the delicate software development lifecycle and ecosystem. In recent days, I've been spending a lot of my spare time playing Capture The Flag (CTF) events, researching vulnerabilities, auditing open source software and hunting for vulnerabilities in the wild. I hope you find my work helpful in your quest.
 
 ### CVEs
@@ -20,7 +20,7 @@ I'm a Security Engineer from India. I'm here to write about Security. I have had
 
 ### Personal Projects
 
-- [cvecat.com](https://cvecat.com): a fully up-to-date CVE database and alerting application
+- [cvecat.com](https://cvecat.com): a fully up-to-date CVE database and alerting system
 
 ---
 
