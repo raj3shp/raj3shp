@@ -1,5 +1,5 @@
-## Hello, world! 👋
-I'm a Security Engineer from India. I'm here to write about Security. I have had the amazing opportunity to work with distributed Linux systems, web services and applications along with the delicate software development lifecycle and ecosystem. In recent days, I've been spending a lot of my spare time playing Capture The Flag (CTF) events, researching vulnerabilities, auditing open source software and hunting for vulnerabilities in the wild. I hope you find my work helpful in your quest.
+## Hello, world 👋
+I'm a Security Engineer from India. I'm here to write about Security. I have the amazing opportunity to work with distributed Linux systems, web services and applications along with the delicate software development lifecycle and ecosystem. I spend a some of my spare time playing Capture The Flag (CTF) events, researching vulnerabilities, auditing open source software and hunting for vulnerabilities in the wild. I hope you find my work helpful in your quest.
 
 ### CVEs
 
@@ -12,13 +12,13 @@ I'm a Security Engineer from India. I'm here to write about Security. I have had
 
 ### Open Source Contributions
 
-- PyCQA/bandit (SAST) plugin: [logging_config_insecure_listen](https://github.com/PyCQA/bandit/blob/main/bandit/plugins/logging_config_insecure_listen.py#L1)
+- PyCQA/bandit (Python SAST) plugin: [logging_config_insecure_listen](https://github.com/PyCQA/bandit/blob/main/bandit/plugins/logging_config_insecure_listen.py#L1)
 - CIS Benchmark for Linux: [1.5.3 - Ensure ptrace_scope is restricted](https://workbench.cisecurity.org/sections/1985936/recommendations/3181744)
 - Improvement to osquery pack [Behavioral_Reverse_Shell](https://github.com/osquery/osquery/pull/7567)
 
 ---
 
-### Personal Projects
+### Personal Projects 🔭
 
 - [cvecat.com](https://cvecat.com): a fully up-to-date CVE database and alerting system
 
