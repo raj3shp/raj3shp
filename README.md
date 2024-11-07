@@ -3,12 +3,6 @@ I'm a Security Engineer from India. I'm here to write about Security. I have the
 
 ---
 
-### Personal Projects 🔭
-
-- [cvecat.com](https://cvecat.com): a fully up-to-date CVE database and alerting system
-
----
-
 ### Malware / Exploit PoC
 
 - [bpfdoorpoc](https://github.com/raj3shp/bpfdoorpoc): PoC for bpfdoor rootkit's eBPF technique and effective detection
