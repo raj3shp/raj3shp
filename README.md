@@ -1,5 +1,3 @@
----
-
 ### Malware / Exploit PoC
 
 - [bpfdoorpoc](https://github.com/raj3shp/bpfdoorpoc): PoC for bpfdoor rootkit's eBPF technique and effective detection
