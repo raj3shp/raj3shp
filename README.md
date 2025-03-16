@@ -1,6 +1,3 @@
-## Hello, world 👋
-I'm a Security Engineer from India. I'm here to write about Security. I have the amazing opportunity to work with distributed Linux systems, web services and applications along with the delicate software development lifecycle and ecosystem. I spend a some of my spare time playing Capture The Flag (CTF) events, researching vulnerabilities, auditing open source software and hunting for vulnerabilities in the wild. I hope you find my work helpful in your quest.
-
 ---
 
 ### Malware / Exploit PoC
