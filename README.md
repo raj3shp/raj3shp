@@ -8,7 +8,7 @@
 
 ### CVEs
 
-- [Zammad](https://zammad.com/en) (Ruby code review)
+- [Zammad](https://zammad.com/en)
   - [CVE-2021-42086: Admin Privilege Escalation](https://zammad.com/en/advisories/zaa-2021-09)
   - [CVE-2021-42094: Command Injection](https://zammad.com/en/advisories/zaa-2021-18)
   - [CVE-2021-42091: SSRF](https://zammad.com/en/advisories/zaa-2021-08)
