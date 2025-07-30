@@ -2,7 +2,6 @@
 
 - PyCQA/bandit (Python SAST) plugin: [logging_config_insecure_listen](https://github.com/PyCQA/bandit/blob/main/bandit/plugins/logging_config_insecure_listen.py#L1)
 - CIS Benchmark for Linux: [1.5.3 - Ensure ptrace_scope is restricted](https://workbench.cisecurity.org/sections/1985936/recommendations/3181744)
-- Improvement to osquery pack [Behavioral_Reverse_Shell](https://github.com/osquery/osquery/pull/7567)
 
 ---
 
