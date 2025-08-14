@@ -27,4 +27,4 @@
 - [python-logging.config-exploit](https://github.com/raj3shp/python-logging.config-exploit): PoC for Python's security consideration "logging: Logging configuration uses eval()"
 - [chkproc.py](https://github.com/raj3shp/chkproc): PoC script to detect processes hidden by rootkits
 - [vscode_trusted_rce](https://github.com/raj3shp/vscode_trusted_rce): PoC for code execution from loading a trusted project in VSCode
-- [Pace calculator and planner for Runners](https://pacecalculator.net/)
+- Pace Calculator and Planner for Runners: https://pacecalculator.net/
