@@ -7,10 +7,14 @@
 
 ### CVEs
 
-- [Zammad](https://zammad.com/en)
-  - [CVE-2021-42086: Admin Privilege Escalation](https://zammad.com/en/advisories/zaa-2021-09)
-  - [CVE-2021-42094: Command Injection](https://zammad.com/en/advisories/zaa-2021-18)
-  - [CVE-2021-42091: SSRF](https://zammad.com/en/advisories/zaa-2021-08)
+|CVE ID|Project|Description|
+|------|-------|-----------|
+|[CVE-2025-54409](https://github.com/aide/aide/security/advisories/GHSA-79g7-f8rv-jcxh)|[AIDE](https://github.com/aide)|Null pointer dereference leading to DoS|
+|[CVE-2025-54389](https://github.com/aide/aide/security/advisories/GHSA-522j-vvx9-gg28)|[AIDE](https://github.com/aide)|Improper output neutralization (detection bypass)|
+|[CVE-2021-42086](https://zammad.com/en/advisories/zaa-2021-09)|[Zammad](https://github.com/zammad/zammad)|Privilege Escalation to admin|
+|[CVE-2021-42094](https://zammad.com/en/advisories/zaa-2021-18)|[Zammad](https://github.com/zammad/zammad)|Command Injection via Package installation|
+|[CVE-2021-42091](https://zammad.com/en/advisories/zaa-2021-08)|[Zammad](https://github.com/zammad/zammad)|Server side request forgery|
+
 
 ---
 
