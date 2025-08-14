@@ -5,7 +5,7 @@
 
 ---
 
-### CVEs
+### Vulnerability Findings
 
 |CVE ID|Project|Description|
 |------|-------|-----------|
