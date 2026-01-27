@@ -1,15 +1,3 @@
-### Open Source Contributions
-
-- PyCQA/bandit (Python SAST) plugin: [logging_config_insecure_listen](https://github.com/PyCQA/bandit/blob/main/bandit/plugins/logging_config_insecure_listen.py#L1)
-- CIS Benchmark for Linux: [1.5.3 - Ensure ptrace_scope is restricted](https://workbench.cisecurity.org/sections/1985936/recommendations/3181744)
-- Minor improvements
-   - VirusTotal YARA: [security bug report](https://github.com/VirusTotal/yara/releases/tag/v4.5.3)
-   - Clam Anti-Virus: [security bug report](https://github.com/Cisco-Talos/clamav/issues/1517)
-   - GTFOBins : [pip abuse](https://github.com/GTFOBins/GTFOBins.github.io/commit/2e2342d4f2084f692b0f42001dd48113479ed666)
-   - Osquery: [detection pack improvement](https://github.com/osquery/osquery/pull/7567)
-
----
-
 ### Vulnerability Findings
 
 |CVE ID|Project|Description|
@@ -33,3 +21,17 @@
 |[python-logging.config-exploit](https://github.com/raj3shp/python-logging.config-exploit)| PoC for Python's security consideration "logging: Logging configuration uses eval()"|
 |[vscode_trusted_rce](https://github.com/raj3shp/vscode_trusted_rce)| PoC for code execution from loading a trusted project in VSCode|
 |[pacecalculator.net](https://pacecalculator.net)| Pace Calculator and Planner for Runners|
+
+--- 
+
+### Open Source Contributions
+
+- PyCQA/bandit (Python SAST) plugin: [logging_config_insecure_listen](https://github.com/PyCQA/bandit/blob/main/bandit/plugins/logging_config_insecure_listen.py#L1)
+- CIS Benchmark for Linux: [1.5.3 - Ensure ptrace_scope is restricted](https://workbench.cisecurity.org/sections/1985936/recommendations/3181744)
+- Minor improvements
+   - VirusTotal YARA: [security bug report](https://github.com/VirusTotal/yara/releases/tag/v4.5.3)
+   - Clam Anti-Virus: [security bug report](https://github.com/Cisco-Talos/clamav/issues/1517)
+   - GTFOBins : [pip abuse](https://github.com/GTFOBins/GTFOBins.github.io/commit/2e2342d4f2084f692b0f42001dd48113479ed666)
+   - Osquery: [detection pack improvement](https://github.com/osquery/osquery/pull/7567)
+
+---
