@@ -14,6 +14,7 @@
 ### Tools
 |Name|Description|
 |----|-----------|
+|[persisthunt](https://github.com/raj3shp/persisthunt)|A lightweight Linux persistence hunting & artifact collection script|
 |[bpfdoorpoc](https://github.com/raj3shp/bpfdoorpoc)|PoC for bpfdoor rootkit's eBPF technique and effective detection|
 |[termspy](https://github.com/raj3shp/termspy)|PoC terminal keylogger using ptrace|
 |[dns2proc](https://github.com/raj3shp/dns2proc)|Bash script to correlate DNS queries with the processes that made them |
