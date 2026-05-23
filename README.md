@@ -26,6 +26,7 @@
 - PyCQA/bandit (Python SAST) plugin: [logging_config_insecure_listen](https://github.com/PyCQA/bandit/blob/main/bandit/plugins/logging_config_insecure_listen.py#L1)
 - CIS Benchmark for Linux: [1.5.3 - Ensure ptrace_scope is restricted](https://workbench.cisecurity.org/sections/1985936/recommendations/3181744)
 - Minor improvements
+   - Falco Runtime Security: [security bug report](https://github.com/falcosecurity/falco/issues/3895) 
    - VirusTotal YARA: [security bug report](https://github.com/VirusTotal/yara/releases/tag/v4.5.3)
    - Clam Anti-Virus: [security bug report](https://github.com/Cisco-Talos/clamav/issues/1517)
    - GTFOBins : [pip abuse](https://github.com/GTFOBins/GTFOBins.github.io/commit/2e2342d4f2084f692b0f42001dd48113479ed666)
