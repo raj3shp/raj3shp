@@ -8,7 +8,7 @@ Security engineer with 10+ years of experience across detection engineering, inc
 
 ## 🐞 Vulnerabilities
 
-CVEs I've discovered and reported.
+(discovered and reported by me)
 
 | ID | Product | Vulnerability | Severity |
 |----|---------|---------------|----------|
