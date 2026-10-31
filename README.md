@@ -30,4 +30,3 @@ Security engineer with 10+ years of experience across detection engineering, inc
 - **VirusTotal YARA** — [security bug report](https://github.com/VirusTotal/yara/releases/tag/v4.5.3)
 - **ClamAV** (anti-virus) — [security bug report](https://github.com/Cisco-Talos/clamav/issues/1517)
 - **GTFOBins** — [`pip` abuse](https://github.com/GTFOBins/GTFOBins.github.io/commit/2e2342d4f2084f692b0f42001dd48113479ed666)
-- **osquery** — [detection pack improvement](https://github.com/osquery/osquery/pull/7567)
